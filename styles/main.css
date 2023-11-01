@@ -135,6 +135,9 @@
    flex-direction: column;
    gap: 10px;
    overflow: hidden;
+   position: absolute;
+   top: 100px;
+   right: 50px;
 }
 
 .progress__obs {
